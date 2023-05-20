@@ -53,9 +53,6 @@
 
 ✅ ETH Drainer with own Smart Contract.
 
-
- `💬 I vouch for the unquestionable performance of my product! Perfect workability according to the declared characteristics is guaranteed! And if any errors are found and they are not corrected in the time frame I have stated - I will refund your money completely.`
-
 #`🟢 Lifetime WARRANTY - eternal serviceability.`
  
 #`🟢 Lifetime technical support and one month free updates.`
