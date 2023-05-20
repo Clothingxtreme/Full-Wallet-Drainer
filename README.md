@@ -9,7 +9,9 @@
 
 ### <center>❄️ Preview of the Drainer | Educational Purposes only
 
----
+
+![Screenshot 2023-05-20 050833](https://github.com/EthanCSS/Full-Wallet-Drainer/assets/132744332/671eded5-dcb0-4a01-b780-cbdb8facc982)
+
 
 ## `🛡️ Drainer Features`
 
