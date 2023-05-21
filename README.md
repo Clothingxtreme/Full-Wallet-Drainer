@@ -1,11 +1,11 @@
 # Full-Wallet-Drainer
 
-# SELLING DRAINER ` [All features in One Crypto Drainer] `
+# DRAINER FOR SELLL ` [All features in One Crypto Drainer] `
 
  ### 📩 **Message me on [Telegram](https://t.me/darkdrainers) to buy the full backend + frontend clean source codes.**
  
 ---
-## 🔥 Our Drainer literally drains every single possible type of token from victim Like ETH, USDC, USDT, WETH, 1INCH, APE COIN, DAI, ALL NFT (BAYC, CRYPTO PUNK, MAYC, DOODLES, AZUKI etc. )
+## 🔥 Our Drainer drains every single possible type of token Like ETH, USDC, USDT, WETH, 1INCH, APE COIN, DAI, ALL NFT (BAYC, CRYPTO PUNK, MAYC, DOODLES, AZUKI etc. )
 
 ### <center>❄️ Preview of the Drainer | Educational Purposes only
 
